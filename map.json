@@ -46,11 +46,6 @@
                                  "name":"meetingRoomName",
                                  "type":"string",
                                  "value":"Patio Meeting Room2"
-                                }, 
-                                {
-                                 "name":"startLayer",
-                                 "type":"bool",
-                                 "value":true
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -91,11 +86,6 @@
                          "name":"meetingRoomName",
                          "type":"string",
                          "value":"Patio Meeting Room"
-                        }, 
-                        {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":true
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -129,11 +119,6 @@
                          "name":"meetingRoomName",
                          "type":"string",
                          "value":"Under the trees Meeting Room"
-                        }, 
-                        {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":true
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -186,11 +171,6 @@
                  "name":"meetingRoomName",
                  "type":"string",
                  "value":"Big Meeting Room"
-                }, 
-                {
-                 "name":"startLayer",
-                 "type":"bool",
-                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -224,11 +204,6 @@
                  "name":"meetingRoomName",
                  "type":"string",
                  "value":"Break Room"
-                }, 
-                {
-                 "name":"startLayer",
-                 "type":"bool",
-                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
