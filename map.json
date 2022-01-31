@@ -43,7 +43,7 @@
                                  "value":"Press SPACE \/ touch to enter the virtual meeting"
                                 }, 
                                 {
-                                 "name":"meetingRoomName",
+                                 "name":"meetingRoomLabel",
                                  "type":"string",
                                  "value":"Patio Meeting Room2"
                                 }],
@@ -83,7 +83,7 @@
                          "value":"Press SPACE \/ touch to enter the virtual meeting"
                         }, 
                         {
-                         "name":"meetingRoomName",
+                         "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Patio Meeting Room"
                         }],
@@ -116,7 +116,7 @@
                          "value":"Press SPACE \/ touch to enter the virtual meeting"
                         }, 
                         {
-                         "name":"meetingRoomName",
+                         "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Under the trees Meeting Room"
                         }],
@@ -168,7 +168,7 @@
                  "value":"Press SPACE \/ touch to enter the virtual meeting"
                 }, 
                 {
-                 "name":"meetingRoomName",
+                 "name":"meetingRoomLabel",
                  "type":"string",
                  "value":"Big Meeting Room"
                 }],
@@ -201,7 +201,7 @@
                  "value":"Press SPACE \/ touch to enter the virtual meeting"
                 }, 
                 {
-                 "name":"meetingRoomName",
+                 "name":"meetingRoomLabel",
                  "type":"string",
                  "value":"Break Room"
                 }],
